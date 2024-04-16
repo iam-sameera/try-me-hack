@@ -20,7 +20,7 @@ https://github.com/iam-sameera/try-me-hack/assets/161738305/c07ead75-70a7-4e9a-b
 https://github.com/iam-sameera/try-me-hack/assets/161738305/3ab4ca58-89fe-4855-bd98-ce797202a0b1
 
 # Part 3
-[Linux Fundamentals Part 3]( https://tryhackme.com/r/room/linux3){:target="_blank"}
+[Linux Fundamentals Part 3]( https://tryhackme.com/r/room/linux3)
 
 ![Linux Part 3 Completed ](linux-part-3/linux3.png)
 
@@ -31,7 +31,7 @@ https://github.com/iam-sameera/try-me-hack/assets/161738305/73240b41-60ab-4fa4-8
 
 
 # Completed Future Careers Bridge Questions
-[Future Careers Bridge Challenge]( https://app.futurecareersbridge.net/dashBoard/learn/Challenges/chl056){:target="_blank"}
+[Future Careers Bridge Challenge]( https://app.futurecareersbridge.net/dashBoard/learn/Challenges/chl056)
 
 
 ![Linux Part 3 Completed ](future-carrier-bridge/carrerbridge.PNG)
