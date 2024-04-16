@@ -1,7 +1,7 @@
 # Try Me Hack Challange completed Please find the Compleated Evidence Below
 
 # Part 1
-[Linux Fundamentals Part 1]( https://tryhackme.com/r/room/linux1){:target="_blank"}
+[Linux Fundamentals Part 1]( https://tryhackme.com/r/room/linux1)
 
 ![Linux Part 1 Completed ](linux-part-1/linux1.png)
 
@@ -10,7 +10,7 @@
 https://github.com/iam-sameera/try-me-hack/assets/161738305/c07ead75-70a7-4e9a-b23d-23d785d23694
 
 # Part 2
-[Linux Fundamentals Part 2]( https://tryhackme.com/r/room/linux2){:target="_blank"}
+[Linux Fundamentals Part 2]( https://tryhackme.com/r/room/linux2)
 
 ![Linux Part 2 Completed ](linux-part-2/linux2.png)
 
