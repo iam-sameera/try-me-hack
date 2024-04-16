@@ -30,6 +30,10 @@ https://github.com/iam-sameera/try-me-hack/assets/161738305/3ab4ca58-89fe-4855-b
 https://github.com/iam-sameera/try-me-hack/assets/161738305/73240b41-60ab-4fa4-837e-cef4ed8d8b23
 
 
+# Completed Future Careers Bridge Questions
+[Future Careers Bridge Challenge]( https://app.futurecareersbridge.net/dashBoard/learn/Challenges/chl056)
 
+
+![Linux Part 3 Completed ](future-carrier-bridge/carrerbridge.PNG)
 
 
